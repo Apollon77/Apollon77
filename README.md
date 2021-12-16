@@ -10,3 +10,5 @@ Furthermore I also maintain some own ioBroker adapters and some Libraries to bri
 If you want to support me, you can:
 * [Sponsor me](https://github.com/sponsors/Apollon77/)
 * [Paypal me](https://paypal.me/Apollon77)
+
+![Apollon77 GitHub stats](https://github-readme-stats.vercel.app/api?username=Apollon77&show_icons=true&theme=dark)
