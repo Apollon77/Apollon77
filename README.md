@@ -8,6 +8,7 @@ With all this work my goal is to deliver best possible quality for the users and
 One of m current main focus topics is to build, maintain and lead the [JavaScript/TypeScript library for the Matter protocol](https://github.com/project-chip/matter.js) in the official project-chip organization to allow the JavaScript community build devices and controllers for the new Matter smart home standard.
 
 Furthermore I also maintain some own ioBroker adapters and some Libraries to bring IoT protocols into the Node.js world. I always try to develop libraries that are usable by all JS/TS developers out there. E.g. I do maintain projects to interact with [Amazon Alexa Devices](https://github.com/Apollon77/alexa-remote/), [Daikin Devices](https://github.com/Apollon77/daikin-controller), [Daikin Cloud Devices](https://github.com/Apollon77/daikin-controller-cloud), [MBus devices](https://github.com/Apollon77/node-mbus), [Meross Devices](https://github.com/Apollon77/meross-cloud/), [Smartmeters](https://github.com/Apollon77/smartmeter-obis/) and last but not least [HomeKit HAP Controller](https://github.com/Apollon77/hap-controller-node/) and I also co-maintain and contribute libraries for some other protocols like [Coap](https://github.com/mcollina/node-coap) or [Tuya](https://github.com/codetheweb/tuyapi). 
+
 If you want to support me, you can:
 * [Sponsor me](https://github.com/sponsors/Apollon77/)
 * [Paypal me](https://paypal.me/Apollon77)
